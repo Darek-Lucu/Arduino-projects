@@ -1,0 +1,30 @@
+
+
+# Arduino build files
+build/
+*.elf
+*.hex
+*.eep
+*.map
+*.bin
+
+# Object and dependency files
+*.o
+*.d
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+
+# IDE settings
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
